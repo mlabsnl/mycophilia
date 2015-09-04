@@ -1,2 +1,2 @@
-# mycophilia
+# Mycophilia
 mycophilia.nl website
